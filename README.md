@@ -70,3 +70,8 @@ https://public.tableau.com/app/profile/shipra1168/viz/citybike_16964763213050/St
 2. The starting and ending locations are in the same neighborhood areas (based on zip code).
 
 3. Main usage of the bike services are during the peak office hours morning 8 am and evening 6 pm which tells us that people like to use bikes to commute to offices.
+
+### References
+[City Bike](https://en.wikipedia.org/wiki/Citi_Bike)
+
+[City Bike Wiki](https://citibikenyc.com/system-data) 
