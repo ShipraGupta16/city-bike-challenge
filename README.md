@@ -54,7 +54,7 @@ https://public.tableau.com/app/profile/shipra1168/viz/citybike_16964763213050/Da
 ![Screenshot 2023-10-10 at 12 06 52 AM](https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/8b2bb544-8a33-4ee5-a389-880e7eb27922)
 
 #### Story 1:
-represent bike types, members and its popularity. Summers have more riders with August as the peak month popular with classic bike rides followed by electric bikes. There are more members riding the bike than casual riders. 
+represent bike types, members and its popularity. Summers have more riders with August as the peak month popular with classic bike rides followed by electric bikes. There are more annual members riding the bike than casual riders. 
 
 https://public.tableau.com/app/profile/shipra1168/viz/citybike_16964763213050/Story1?publish=yes
 
@@ -67,9 +67,9 @@ https://public.tableau.com/app/profile/shipra1168/viz/citybike_16964763213050/St
 ### Summary
 1. Biker services are remarkably in demand during the summer months (August specially). Bikers like to ride classic bikes and use their membership. 
 
-2. The starting and ending locations are in the same neighborhood areas (based on zip code).
+2. The starting and ending locations are in the same neighborhood (based on zip code).
 
-3. Main usage of the bike services are during the peak office hours morning 8 am and evening 6 pm which tells us that people like to use bikes to commute to offices.
+3. Main usage of the bike services are during the office hours morning 8 am and evening 6 pm which indicates that people like to use bikes to commute to offices.
 
 ### References
 [City Bike](https://en.wikipedia.org/wiki/Citi_Bike)
