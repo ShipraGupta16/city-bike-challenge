@@ -19,13 +19,18 @@ JC-202211-citibike-tripdata.csv <br>
 JC-202210-citibike-tripdata.csv <br>
 JC-202209-citibike-tripdata.csv <br>
 
+I used to python (jupyter notebook) to read all the csv files, concatenate them, and extract the starting time and ending time of the journey to use it in Tableau.
+
 ### Questions:
 
 1. What are the top 10 stations in the city for starting a journey?
 2. What are the top 10 stations in the city for ending a journey?
 3. What are the bottom 10 stations in the city for starting a journey?
 4. What are the bottom 10 stations in the city for ending a journey?
-5. What are the peak hours when bikes are used during a time period (August 2022 - July 2023)?
+5. What are the peak months when bikes are used during a time period (August 2022 - July 2023)?
+6. What are the peak time during the day when bikers ride?
+7. Do bikers use membership to ride bikes?
+8. What is their preference over classic bike, electric bike and docked bike?
 
 #### Dashboard 1:
 showing the top 10 starting stations and ending stations. The density map represent the heatmap of starting locations labeled with zip code. There are two hotspots areas which shows the starting prime locations in the 07030 and 07302 zip code. 
@@ -53,11 +58,15 @@ represent bike types, members and its popularity. Summers have more riders with 
 
 https://public.tableau.com/app/profile/shipra1168/viz/citybike_16964763213050/Story1?publish=yes
 
-![Screenshot 2023-10-10 at 12 07 22 AM](https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/b9be5ade-c7b8-496e-bfe7-cdedbacb4ecd)
+<img src="https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/b9be5ade-c7b8-496e-bfe7-cdedbacb4ecd" width=70% height=50%>
 
-![Screenshot 2023-10-10 at 12 07 46 AM](https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/ac6ba447-a226-4b0e-ad77-af7c16a899de)
+<img src="https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/1af75b09-10bc-4d18-b2ed-26a59b0cf42c" width=70% height=50%>
 
-![Screenshot 2023-10-10 at 12 08 12 AM](https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/b3ef9d06-22d2-480b-9032-a66f38706a07)
+<img src="https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/b3ef9d06-22d2-480b-9032-a66f38706a07" width=70% height=50%>
 
+### Summary
+1. Biker services are remarkably in demand during the summer months (August specially). Bikers like to ride classic bikes and use their membership. 
 
+2. The starting and ending locations are in the same neighborhood areas (based on zip code).
 
+3. Main usage of the bike services are during the peak office hours morning 8 am and evening 6 pm which tells us that people like to use bikes to commute to offices.
