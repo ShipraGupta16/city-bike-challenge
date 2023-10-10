@@ -4,7 +4,7 @@ This challenege is on the largest bike-sharing program in the United States. As 
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so our first task on the job is to build a set of data reports to provide the answers.
 
-The data is downloaded from the City Bike website from Aug 2022 - July 2023 to answer the questions below.
+The data is downloaded from the City Bike website from Aug 2022 - July 2023 to answer the questions below. The size of all the data are more than 100 MB and can't be uploaded to the repo so, here are the names of the file.
 
 JC-202208-citibike-tripdata.csv <br>
 JC-202307-citibike-tripdata.csv <br>
@@ -19,7 +19,7 @@ JC-202211-citibike-tripdata.csv <br>
 JC-202210-citibike-tripdata.csv <br>
 JC-202209-citibike-tripdata.csv <br>
 
-I used to python (jupyter notebook) to read all the csv files, concatenate them, and extract the starting time and ending time of the journey to use it in Tableau.
+I used to python (jupyter notebook) to read all the csv files, concatenate them, and extract the starting time and ending time of the journey to use it in Tableau. The final merged filename is citi_bike_2022_2023.csv
 
 ### Questions:
 
