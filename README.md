@@ -42,11 +42,15 @@ https://public.tableau.com/app/profile/shipra1168/viz/citybike_16964763213050/Da
 ![Screenshot 2023-10-10 at 12 06 21 AM](https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/50e8657c-bc11-4001-bcba-09aab30d1989)
 
 #### Dashboard 3:
+represent the peak hours during the day. Throughout this time period (Aug 2022 - July 2023), August is the peak month for highest bike ride with starting time in the morning around 8 am and ending time in the evening around 6 pm. Bikers prefer classic bike ride way more than electric or docked bike.
+
 https://public.tableau.com/app/profile/shipra1168/viz/citybike_16964763213050/Dashboard3?publish=yes
 
 ![Screenshot 2023-10-10 at 12 06 52 AM](https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/8b2bb544-8a33-4ee5-a389-880e7eb27922)
 
 #### Story 1:
+represent bike types, members and its popularity. Summers have more riders with August as the peak month popular with classic bike rides followed by electric bikes. There are more members riding the bike than casual riders. 
+
 https://public.tableau.com/app/profile/shipra1168/viz/citybike_16964763213050/Story1?publish=yes
 
 ![Screenshot 2023-10-10 at 12 07 22 AM](https://github.com/ShipraGupta16/city-bike-challenge/assets/25715747/b9be5ade-c7b8-496e-bfe7-cdedbacb4ecd)
