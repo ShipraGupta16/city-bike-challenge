@@ -29,7 +29,7 @@ I used to python (jupyter notebook) to read all the csv files, concatenate them,
 4. What are the bottom 10 stations in the city for ending a journey?
 5. What are the peak months when bikes are used during a time period (August 2022 - July 2023)?
 6. What are the peak time during the day when bikers ride?
-7. Do bikers use membership to ride bikes?
+7. Do bikers use annual membership to ride bikes?
 8. What is their preference over classic bike, electric bike and docked bike?
 
 #### Dashboard 1:
