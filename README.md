@@ -1,6 +1,6 @@
 # city-bike-challenge
 
-This challenege is on the largest bike-sharing program in the United States. As a lead data analyst, we are expected to generate regular reports for city officials looking to publicize and improve the city program. Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to [City Bike Data](https://citibikenyc.com/system-data).
+This challenge is on the largest bike-sharing program in the United States. As a lead data analyst, we are expected to generate regular reports for city officials looking to publicize and improve the city program. Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to [City Bike Data](https://citibikenyc.com/system-data).
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so our first task on the job is to build a set of data reports to provide the answers.
 
@@ -19,7 +19,8 @@ JC-202211-citibike-tripdata.csv <br>
 JC-202210-citibike-tripdata.csv <br>
 JC-202209-citibike-tripdata.csv <br>
 
-I used to python (jupyter notebook) to read all the csv files, concatenate them, and extract the starting time and ending time of the journey to use it in Tableau. The final merged filename is citi_bike_2022_2023.csv
+#### Tech stack: Python, Tableau
+I used to Python (jupyter notebook) to read all the csv files, concatenate them, and extract the starting time and ending time of the journey to use it in Tableau. The final merged filename is citi_bike_2022_2023.csv
 
 ### Questions:
 
